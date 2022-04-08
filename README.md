@@ -20,4 +20,4 @@ make
 Some test files are available (record1_xx.dat), you can select them in main.c
 
 ## Contribution
-Thanks to Emilio Chatel for this collaborative project
+Thanks to Emilio Chatel(https://github.com/Foxeyes7) for this collaborative project
